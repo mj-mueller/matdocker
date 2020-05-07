@@ -3,7 +3,7 @@
 ## Build
 
 Use:
-```docker build --tag dockermat .```
+```docker build --tag matdocker .```
 
 ## Run
 Use:
